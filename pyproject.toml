@@ -19,4 +19,6 @@ dependencies = [
     "xgboost>=3.0.5",
     "scikit-learn>=1.7.2",
     "graphviz>=0.21",
+    "nbconvert>=7.16.6",
+    "imblearn>=0.0",
 ]
